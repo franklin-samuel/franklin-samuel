@@ -1,6 +1,7 @@
 ## Olá, sou Samuel Franklin!
 ### Minha maior meta atual é essa:
-![image](https://github.com/user-attachments/assets/fb8edf38-2c89-4428-8c94-fa9b2a10da07)
+![image](https://github.com/user-attachments/assets/609a44b4-1d3f-40ba-a9fc-2041150d1144)
+
 
 
 - Hoje trabalho com Desenvolvimento Mobile e BackEnd
