@@ -4,7 +4,7 @@
 ![franklin-samuel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franklin-samuel&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 - Hoje trabalho com Desenvolvimento Mobile e BackEnd
-- Estudando React Native...
+- Estudando Kotlin...
 <div style="display: inline_block"><br>
    <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
