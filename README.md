@@ -44,5 +44,3 @@ Sou desenvolvedor apaixonado por tecnologia, atualmente focado em **Desenvolvime
 [![Gmail](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelfranklin@gmail.com)
 
 ---
-
-> 💬 *"Software bem feito é aquele que você pode escalar e manter com orgulho."*
