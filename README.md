@@ -1,25 +1,48 @@
-## Olá, sou Samuel Franklin!
+## 👋 Olá, sou Samuel Franklin!
 
-![franklin-samuel's Stats](https://github-readme-stats.vercel.app/api?username=franklin-samuel&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-![franklin-samuel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franklin-samuel&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+Sou desenvolvedor apaixonado por tecnologia, atualmente focado em **Desenvolvimento Mobile e Back-End**.
 
-- Hoje trabalho com Desenvolvimento Mobile e BackEnd
-- Estudando Kotlin...
-<div style="display: inline_block"><br>
-   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+🚀 Em constante evolução e aprendendo novas ferramentas todos os dias!
 
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
- 
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=franklin-samuel&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklin-samuel&theme=dracula&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
+---
 
-### Minha maior meta atual é essa:
-![image](https://github.com/user-attachments/assets/609a44b4-1d3f-40ba-a9fc-2041150d1144)
+### 🧰 Tecnologias que uso
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,python,kotlin,spring,docker,javascript,typescript,html,css" />
+</div>
 
+---
 
+### 🎯 Meta atual
+
+> Desenvolver **aplicações robustas e escaláveis** que gerem **impacto real na vida das pessoas**, com foco em **boas práticas de código**, **automação**, e **alta qualidade de entrega**.
+
+---
+
+### 💡 Sobre mim
+
+- 📱 Hoje trabalho com **desenvolvimento mobile (Kotlin, React Native)**  
+- ☕ Me aprofundando em **Spring Boot** e soluções back-end modernas  
+- 🐳 Automatizando ambientes com **Docker** e explorando DevOps com **Google Cloud** 
+- 🔗 Foco total em criar **projetos que resolvem problemas reais**
+
+---
+
+### 📫 Como me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)
+[![Gmail](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+
+---
+
+> 💬 *"Software bem feito é aquele que você pode escalar e manter com orgulho."*
