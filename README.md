@@ -34,8 +34,8 @@ Atuo com **React Native, Kotlin, Python (POO, FastAPI)** e **Spring Boot**, semp
 
 - 📱 Atualmente focado em **desenvolvimento mobile** com **Kotlin** e **React Native**  
 - ☕ Construindo APIs modernas e performáticas com **Spring Boot** e **Python REST**  
-- 🐳 Automatizando ambientes com **Docker**, **GitHub Actions** e deploy na **Google Cloud**  
-- 🧠 Aprofundando conhecimentos em **arquitetura de software**, **DevOps** e **produtividade no desenvolvimento**
+- 🐳 Automatizando ambientes com **Docker**, **GitHub Actions** e deploy na **Nuvem(Google Cloud, Render)**  
+- 🧠 Aprofundando conhecimentos em **arquitetura de software**, **produtividade no desenvolvimento** e **DevOps**
 
 ---
 
