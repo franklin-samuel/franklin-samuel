@@ -33,7 +33,7 @@ Atuo com **React Native, Kotlin + Spring** e **Python**, sempre buscando qualida
 ### 💡 Sobre mim
 
 - 📱 Atualmente focado em **desenvolvimento mobile** com **Kotlin** e **React Native**  
-- ☕ Construindo APIs modernas e performáticas com **Spring Boot** e **Python REST**  
+- ☕ Construindo APIs modernas e performáticas com **Kotlin + Spring** e **Python REST**  
 - 🐳 Automatizando ambientes com **Docker**, **GitHub Actions** e deploy na **Nuvem(Google Cloud, Render)**  
 - 🧠 Aprofundando conhecimentos em **arquitetura de software**, **produtividade no desenvolvimento** e **DevOps**
 
