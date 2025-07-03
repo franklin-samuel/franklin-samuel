@@ -1,7 +1,7 @@
 ## 👋 Olá, sou Samuel Franklin!
 
 Sou desenvolvedor fullstack com foco em **aplicações mobile e APIs escaláveis**.  
-Atuo com **React Native, Kotlin, Python (POO, FastAPI)** e **Spring Boot**, sempre buscando qualidade, impacto e performance.
+Atuo com **React Native, Kotlin + Spring** e **Python**, sempre buscando qualidade, impacto e performance.
 
 🚀 Em constante evolução, aprendendo e aplicando novas tecnologias todos os dias.
 
