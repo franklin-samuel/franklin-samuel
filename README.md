@@ -19,7 +19,7 @@ Atuo com **React Native, Kotlin + Spring** e **Python**, sempre buscando qualida
 ### 🧰 Tecnologias que uso
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,kotlin,python,spring,docker,typescript,postgres,git,githubactions,gcloud" />
+  <img src="https://skillicons.dev/icons?i=react,python,flask,kotlin,spring,docker,typescript,postgres,git,githubactions,gcloud" />
 </div>
 
 ---
