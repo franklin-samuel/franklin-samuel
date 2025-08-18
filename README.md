@@ -1,47 +1,57 @@
-## 👋 Olá, sou Samuel Franklin!
+# 🚀 Samuel Franklin
+### Fullstack Developer | React Native 📱 + Java Spring ☕  
 
-Sou desenvolvedor fullstack com foco em **aplicações mobile e APIs escaláveis**.  
-Atuo com **React Native, Kotlin + Spring** e **Python**, sempre buscando qualidade, impacto e performance.
+Apaixonado por **tecnologia**, **performance** e **impacto real**.  
+Desenvolvo soluções que unem **mobile** e **back-end escalável**.
 
-🚀 Em constante evolução, aprendendo e aplicando novas tecnologias todos os dias.
 
----
 
-### 📊 GitHub Stats
 
-<div align="left">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=franklin-samuel&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklin-samuel&theme=dracula&show_icons=true&hide_border=true&layout=compact" />
+
+## 🧑‍💻 Sobre mim
+- 📱 Focado em **desenvolvimento mobile** com **React Native**
+- ☕ Construindo **APIs performáticas** com **Java + Spring**
+- 🍃 Experiência com **Thymeleaf** ⭐ para aplicações web dinâmicas
+- 🐍 Experiência em **Python REST**
+- 🐳 Automatizando ambientes com **Docker + CI/CD**
+- ☁️ Deploy em **Google Cloud**
+- 📚 Sempre estudando **arquitetura de software** e **boas práticas**
+
+
+
+## 📊 Estatísticas do GitHub
+<div>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=franklin-samuel&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklin-samuel&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
----
-
-### 🧰 Tecnologias que uso
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react,python,kotlin,spring,docker,typescript,flask,postgres,git,githubactions,gcloud" />
+## 🛠️ Tecnologias & Ferramentas  
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React Native" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" alt="Spring" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thymeleaf/thymeleaf-original.svg" width="50" alt="Thymeleaf (HTML)" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50" alt="Kotlin" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" alt="Google Cloud" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" />
 </div>
 
----
-
-### 🎯 Meta atual
-
-> Desenvolver **aplicações robustas e escaláveis** que gerem **impacto real na vida das pessoas**, com foco em **boas práticas de código**, **automação** e **alta qualidade de entrega**.
-
----
-
-### 💡 Sobre mim
-
-- 📱 Atualmente focado em **desenvolvimento mobile** com **Kotlin** e **React Native**  
-- ☕ Construindo APIs modernas e performáticas com **Kotlin + Spring** e **Python REST**  
-- 🐳 Automatizando ambientes com **Docker**, **GitHub Actions** e deploy na **Nuvem(Google Cloud, Render)**  
-- 🧠 Aprofundando conhecimentos em **arquitetura de software**, **produtividade no desenvolvimento** e **DevOps**
+## 🎯 Minha Missão
+💡 Criar **aplicações robustas e escaláveis** que realmente façam diferença.  
+🔎 Foco em **qualidade**, **automação** e **entregas de alto nível**.  
+🚀 Sempre buscando aprender e evoluir!  
 
 ---
 
-### 📫 Como me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelfranklindev)
-[![Gmail](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelfranklin@gmail.com)
-
+## 🌐 Onde me encontrar
+<div>
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelfranklindev)  
+  [![Gmail](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelfranklin@gmail.com)  
+</div>
 ---
+
+✨ "Código é mais do que lógica, é uma forma de transformar ideias em impacto." ✨
