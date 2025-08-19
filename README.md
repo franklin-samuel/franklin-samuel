@@ -47,6 +47,6 @@ Desenvolvo soluções que unem **mobile** e **back-end escalável**.
 ---
 
 ## 🌐 Onde me encontrar
- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelfranklindev)  [![Gmail](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelfranklin@gmail.com) 
+ [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelfranklindev)  [![Gmail](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelfranklinff@gmail.com) 
 ---
 
