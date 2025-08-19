@@ -5,9 +5,6 @@ Focado em **tecnologia**, **performance** e **impacto real**.
 Desenvolvo soluções que unem **mobile** e **back-end escalável**.
 
 
-
-
-
 ## 🧑‍💻 Sobre mim
 - 📱 Focado em **desenvolvimento mobile** com **React Native**
 - ☕ Construindo **APIs performáticas** com **Java + Spring**
@@ -18,15 +15,15 @@ Desenvolvo soluções que unem **mobile** e **back-end escalável**.
 - 📚 Sempre estudando **arquitetura de software** e **boas práticas**
 
 
-
 ## 📊 Estatísticas do GitHub
-<div>
+<div align="left">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=franklin-samuel&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklin-samuel&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
+
 ## 🛠️ Tecnologias & Ferramentas  
-<div>
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React Native" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" alt="Spring" />
@@ -40,18 +37,16 @@ Desenvolvo soluções que unem **mobile** e **back-end escalável**.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" />
 </div>
 
+
 ## 🎯 Minha Missão
 💡 Criar **aplicações robustas e escaláveis** que realmente façam diferença.  
 🔎 Foco em **qualidade**, **automação** e **entregas de alto nível**.  
 🚀 Sempre buscando aprender e evoluir!  
 
+
 ---
 
 ## 🌐 Onde me encontrar
-<div>
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelfranklindev)  
-  [![Gmail](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelfranklin@gmail.com)  
-</div>
+ [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelfranklindev)  [![Gmail](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelfranklin@gmail.com) 
 ---
 
-✨ "Código é mais do que lógica, é uma forma de transformar ideias em impacto." ✨
