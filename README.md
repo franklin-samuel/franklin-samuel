@@ -1,18 +1,18 @@
-# 🚀 Samuel Franklin
-### Fullstack Developer | Java Spring ☕ + React Native 📱 
+# Samuel Franklin
+### Fullstack Developer | Java Spring + React Native
 
 Focado em **tecnologia**, **performance** e **impacto real**.  
 Desenvolvo soluções que unem **interfaces** e **back-end escalável**.
 
 
-## 🧑‍💻 Sobre mim
-- ☕ Construindo **APIs performáticas** com **Java + Spring**
-- 🍃 Experiência com **Thymeleaf** e **React** para aplicações web dinâmicas
-- 📱 Focado em **desenvolvimento mobile** com **React Native**
-- 🐍 Experiência em **Python REST**
-- 🐳 Automatizando ambientes com **Docker + CI/CD**
-- ☁️ Deploy em **Google Cloud**, **AWS**(estudando)
-- 📚 Sempre estudando **arquitetura de software** e **boas práticas**
+## Sobre mim
+- Construindo **APIs performáticas** com **Java + Spring**
+- Experiência com **Thymeleaf** e **React** para aplicações web dinâmicas
+- **Desenvolvimento mobile** com **React Native**
+- Experiência em **Python REST**
+- Automatizando ambientes com **Docker + CI/CD**
+- Deploy em **Google Cloud**, **AWS**(estudando)
+- Sempre estudando **arquitetura de software** e **boas práticas**
 
 
 ## 📊 Estatísticas do GitHub
