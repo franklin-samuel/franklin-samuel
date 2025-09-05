@@ -15,13 +15,6 @@ Desenvolvo soluções que unem **interfaces** e **back-end escalável**.
 - Sempre estudando **arquitetura de software** e **boas práticas**
 
 
-## 📊 Estatísticas do GitHub
-<div align="left">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=franklin-samuel&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklin-samuel&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
-</div>
-
-
 ## 🛠️ Tecnologias & Ferramentas  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java" />
@@ -36,13 +29,6 @@ Desenvolvo soluções que unem **interfaces** e **back-end escalável**.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" alt="Google Cloud" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" />
 </div>
-
-
-## 🎯 Minha Missão
-💡 Criar **aplicações robustas e escaláveis** que realmente façam diferença.  
-🔎 Foco em **qualidade**, **automação** e **entregas de alto nível**.  
-🚀 Sempre buscando aprender e evoluir!  
-
 
 ---
 
