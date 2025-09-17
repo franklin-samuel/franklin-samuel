@@ -1,38 +1,25 @@
-# Samuel Franklin
-### Fullstack Developer | Java Spring + React Native
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4600&pause=2500&color=00FFFF&width=435&lines=Hi+there%2C+This+is+Samuel+!" alt="Typing SVG" /></a>
 
-Focado em **tecnologia**, **performance** e **impacto real**.  
-Desenvolvo soluções que unem **interfaces** e **back-end escalável**.
+![Samuel Franklin's GitHub stats](https://github-readme-stats.vercel.app/api?username=franklin-samuel&show_icons=true&title_color=00FFFF&text_color=00FFFF&icon_color=00FFFF&bg_color=12121212&border_color=1F51FFF&rank_icon=github)
 
 
-## Sobre mim
-- Construindo **APIs performáticas** com **Java + Spring**
-- Experiência com **Thymeleaf** e **React** para aplicações web dinâmicas
-- **Desenvolvimento mobile** com **React Native**
-- Experiência em **Python REST**
-- Automatizando ambientes com **Docker + CI/CD**
-- Deploy em **Google Cloud**, **AWS**(estudando)
-- Sempre estudando **arquitetura de software** e **boas práticas**
+## My top open source projects  -->
+  
+  
+<p align="left">
+  <a href="https://github.com/gurkanucar?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-00FFFF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
 
 
-## 🛠️ Tecnologias & Ferramentas  
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" alt="Spring" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React Native" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50" alt="Kotlin" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thymeleaf/thymeleaf-original.svg" width="50" alt="Thymeleaf (HTML)" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" alt="Google Cloud" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" />
+## Technology Stack
+<!-- https://github.com/tandpfun/skill-icons -->
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,react,python,mysql,postgres,redis,docker,gcp)](https://skillicons.dev)
+
 </div>
 
----
-
-## 🌐 Onde me encontrar
+## Find me
  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelfranklindev)  [![Gmail](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelfranklinff@gmail.com) 
 ---
 
