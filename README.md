@@ -5,7 +5,7 @@
 ## 🚀 My top open source projects
 
 <p align="left">
-  <a href="https://github.com/gurkanucar?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-9d4edd?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/franklin-samuel?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-9d4edd?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
 ## 💻 Technology Stack
