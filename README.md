@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4600&pause=2500&color=9d4edd&width=435&lines=Hi+there%2C+This+is+Samuel!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4600&pause=2500&color=9d4edd&width=435&lines=Hi+there%2C+this+is+Samuel!" alt="Typing SVG" /></a>
 
 ![Samuel Franklin's GitHub stats](https://github-readme-stats.vercel.app/api?username=franklin-samuel&show_icons=true&title_color=9d4edd&text_color=c77dff&icon_color=7209b7&bg_color=0d1117&border_color=6f42c1&rank_icon=github)
 
