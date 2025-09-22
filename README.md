@@ -2,13 +2,13 @@
 
 ![Samuel Franklin's GitHub stats](https://github-readme-stats.vercel.app/api?username=franklin-samuel&show_icons=true&title_color=9d4edd&text_color=c77dff&icon_color=7209b7&bg_color=0d1117&border_color=6f42c1&rank_icon=github)
 
-## 🚀 My top open source projects
+## My top open source projects
 
 <p align="left">
   <a href="https://github.com/franklin-samuel?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-9d4edd?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
-## 💻 Technology Stack
+## Technology Stack
 
 <div align="center">
 
@@ -16,7 +16,7 @@
 
 </div>
 
-## 🌐 Connect with me
+## Connect with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/samuelfranklindev">
